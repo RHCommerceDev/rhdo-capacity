@@ -20,14 +20,14 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="1716.2376841569662" width="1523.6204983835241" x="246.0103261033231" y="-346.65257393140485"/>
+              <y:Geometry height="1742.0700802455935" width="1528.6204983835237" x="246.0103261033231" y="-346.65257393140485"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1523.6204983835241" x="0.0" xml:space="preserve" y="0.0">Capacity Engine Repository</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1528.6204983835237" x="0.0" xml:space="preserve" y="0.0">Capacity Engine Repository</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="5" bottomF="4.932900406081444" left="0" leftF="0.0" right="25" rightF="25.46844637606773" top="0" topF="0.0"/>
+              <y:BorderInsets bottom="31" bottomF="30.765296494708764" left="0" leftF="0.0" right="30" rightF="30.468446376067277" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -189,7 +189,7 @@ docId=v1-capacityMarket${{id}}<y:LabelModel><y:SmartNodeLabelModel distance="4.0
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="260.9229411128422" width="329.81287487018386" x="261.01032610332317" y="797.4697394596425"/>
+                  <y:Geometry height="260.9229411128423" width="329.81287487018386" x="261.01032610332317" y="732.7768788936114"/>
                   <y:Fill color="#F5F5F5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="329.81287487018386" x="0.0" xml:space="preserve" y="0.0">Group 3</y:NodeLabel>
@@ -215,7 +215,7 @@ docId=v1-capacityMarket${{id}}<y:LabelModel><y:SmartNodeLabelModel distance="4.0
             <node id="n0::n2::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="40.0" width="283.6693040737596" x="276.0103261033233" y="812.4697394596425"/>
+                  <y:Geometry height="40.0" width="283.6693040737596" x="276.0103261033233" y="747.7768788936114"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="32.7578125" x="125.45574578687979" xml:space="preserve" y="10.93359375">Zone<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -225,7 +225,7 @@ docId=v1-capacityMarket${{id}}<y:LabelModel><y:SmartNodeLabelModel distance="4.0
             <node id="n0::n2::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.internalStorage">
-                  <y:Geometry height="183.34481858620575" width="283.6693040737597" x="276.0103261033233" y="852.4697394596425"/>
+                  <y:Geometry height="183.34481858620575" width="283.6693040737597" x="276.0103261033233" y="787.7768788936114"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="139.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="283.6693040737597" x="16.143570796424058" xml:space="preserve" y="21.703659293102874">id &lt;uuid; PK&gt;
@@ -249,14 +249,14 @@ docId=v1-capacityZone${id}<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/><
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="482.988417601097" width="351.66586478533986" x="767.527420524332" y="797.4697394596425"/>
+                  <y:Geometry height="392.233878902171" width="351.66586478533986" x="767.527420524332" y="731.3527433391814"/>
                   <y:Fill color="#F5F5F5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="351.66586478533986" x="0.0" xml:space="preserve" y="0.0">Group 4</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                  <y:BorderInsets bottom="11" bottomF="11.412553155527121" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="1" topF="1.424135554429995"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -275,7 +275,7 @@ docId=v1-capacityZone${id}<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/><
             <node id="n0::n3::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="40.0" width="304.34560906515594" x="782.527420524332" y="812.4697394596425"/>
+                  <y:Geometry height="40.0" width="304.34560906515594" x="782.527420524332" y="747.7768788936114"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="90.853515625" x="106.74604672007797" xml:space="preserve" y="10.93359375">Zone Template<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -285,32 +285,26 @@ docId=v1-capacityZone${id}<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/><
             <node id="n0::n3::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.internalStorage">
-                  <y:Geometry height="401.5758644455698" width="304.34560906515594" x="782.527420524332" y="852.4697394596425"/>
+                  <y:Geometry height="320.809743347741" width="304.34560906515594" x="782.527420524332" y="787.7768788936115"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="384.625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.34560906515594" x="17.320255720183923" xml:space="preserve" y="12.950864445569891">id &lt;uuid; PK&gt;
+                  <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="303.0625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.34560906515594" x="17.320255720183923" xml:space="preserve" y="13.747243347740891">id &lt;uuid; PK&gt;
 zoneId &lt;uuid; FK&gt;
 marketId &lt;uuid; FK&gt;
 countryId &lt;uuid; FK&gt;
+isOvernight &lt;boolean; ^1&gt;
 deliveryDays [{
   dayOfWeek &lt;byte&gt;
   isActive &lt;bool&gt;
-  fleet [{
-    deliveryVehicleClassId &lt;uuid; FK&gt;
-    quantity &lt;int&gt;
-  }]
+  fleet^1a [{vehicleQuantity}}]
+  fixedCapacity^1b {capacity}
 }]
-dailyStopLimits [{
-  deliveryVehicleClassId &lt;uuid; FK&gt;
-  stopCount &lt;int&gt;
-}]
+dailyStopLimits^1a [{dailyStopLimit}]
 overrideDates [{
   overrideType &lt;string:enum&gt;
   date &lt;ISO Date&gt;
-  fleet [{
-    deliveryVehicleClassId &lt;uuid; FK&gt;
-    quantity &lt;int&gt;
-  }]
+  fleet^1a [{vehicleQuantity}]
+  capacity^1b {capacity}
 }]
 capcityThreshold &lt;decimal&gt;
 nodeClass=ZONE
@@ -373,10 +367,10 @@ countryCode &lt;string:iso3&gt;
 marketNumber &lt;int&gt;
 zoneNumber &lt;int&gt;
 zoneFactors &lt;object&gt;
-computedCubeCapacity &lt;int&gt;
-computedStopCapacity &lt;int&gt;
-computedCubeThreshold &lt;int&gt;
-computedStopThreshold &lt;int&gt;
+cubeCapacity &lt;cube&gt;
+stopCapacity &lt;int&gt;
+cubeThreshold &lt;cube&gt;
+stopThreshold &lt;int&gt;
 reservations [{
   reservationId &lt;uuid; U&gt;
   reservationEpochSecond &lt;long&gt;
@@ -389,8 +383,8 @@ reservations [{
   )
   _tombstoned &lt;bool&gt;
 }]
-remainingCubeCapacity¡ &lt;int&gt;
-remainingStopCapacity¡ &lt;int&gt;
+unallocatedCubeCapacity¡ &lt;cube&gt;
+unallocatedStopCapacity¡ &lt;int&gt;
 reservationState &lt;string:enum&gt;
 nodeClass=ZONE_DAY
 
@@ -613,7 +607,7 @@ docId=v1-capacityVehicle${id}<y:LabelModel><y:SmartNodeLabelModel distance="4.0"
                   <y:Geometry height="59.188888888888926" width="366.81836247500814" x="1334.6216434425478" y="136.10390033032584"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.02734375" x="168.39550936250407" xml:space="preserve" y="20.52803819444449">User<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.02734375" x="168.39550936250407" xml:space="preserve" y="20.528038194444463">User<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
                 </y:GenericNode>
               </data>
             </node>
@@ -623,11 +617,12 @@ docId=v1-capacityVehicle${id}<y:LabelModel><y:SmartNodeLabelModel distance="4.0"
                   <y:Geometry height="134.12128832477146" width="366.81836247500814" x="1334.6216434425478" y="195.29278921921482"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="112.75" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="366.81836247500814" x="12.722372193223464" xml:space="preserve" y="3.999999999999943">id &lt;uuid; PK&gt;
-uid &lt;string; U&gt;
-roles [&lt;role&gt;]
+                  <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="126.34375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="366.81836247500814" x="12.722372193223464" xml:space="preserve" y="3.9999999999999716">id &lt;uuid; PK&gt;
+username &lt;string; U&gt;
+groupnames [&lt;group&gt;]
 authorizedNodes [&lt;node&gt;]
 defaultNode &lt;node&gt;
+favorites [&lt;node&gt;]
 nodeClass=USER
 
 docId=v1-capacityUser${uid}
@@ -643,7 +638,7 @@ docId=v1-capacityUser${uid}
               <y:Geometry height="152.27402282377196" width="417.69393173471144" x="1311.4684463760677" y="-184.89930346616123"/>
               <y:Fill color="#E8EEF7" color2="#FF99CC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="112.75" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="19.762011411885965">nodeClass &lt;string:enum&gt; (
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="112.75" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="19.762011411885993">nodeClass &lt;string:enum&gt; (
   COUNTRY,
   MARKET,
   ZONE,
@@ -664,12 +659,11 @@ docId=v1-capacityUser${uid}
               <y:Geometry height="152.27402282377196" width="417.69393173471144" x="1311.468446376068" y="371.1440489956515"/>
               <y:Fill color="#E8EEF7" color2="#FF99CC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="139.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="6.1682614118860215">role &lt;string:enum&gt; (
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="126.34375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="12.965136411885965">group &lt;string:enum&gt; (
   CME_GLOBAL_ADMIN,
-  CME_COUNTRY_ADMIN,
-  CME_MARKET_ADMIN,
-  CME_ZONE_ADMIN,
-  CME_USER_ADMIN,
+  CME_SR_LEADER,
+  CME_SCHED_LEADER,
+  CME_SCHED_ASSOC,
   CME_CR_EXEC,
   CME_ZDCJ_EXEC,
   CME_CONSUMER
@@ -687,7 +681,7 @@ docId=v1-capacityUser${uid}
               <y:Geometry height="96.99920952104995" width="417.69393173471144" x="1311.4684463760677" y="-2.6252806423892707"/>
               <y:Fill color="#E8EEF7" color2="#FF99CC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="99.15625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="-1.07852023947504">node {
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="99.15625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="-1.0785202394750257">node {
   umask &lt;byte&gt; (1=read/write,3=read,7=none)
   nodeClass &lt;object&gt;
   nodeId &lt;uuid; FK&gt; 
@@ -704,13 +698,14 @@ docId=v1-capacityUser${uid}
         <node id="n0::n12">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.annotation">
-              <y:Geometry height="79.01903954937856" width="417.69393173471144" x="1311.4684463760677" y="-293.9183430155398"/>
+              <y:Geometry height="95.08725484024362" width="417.69393173471144" x="1311.4684463760677" y="-309.98655830640485"/>
               <y:Fill color="#E8EEF7" color2="#FF99CC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="71.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="3.525144774689295">overrideType &lt;string:enum&gt; (
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="85.5625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="4.7623774201218225">overrideType &lt;string:enum&gt; (
   HOLIDAY,
   BLACKOUT,
-  EXCEPTION
+  EXCEPTION,
+  STD
 )<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Byte" name="com.yworks.flowchart.style.orientation" value="0"/>
@@ -743,9 +738,10 @@ docId=v1-capacityUser${uid}
               <y:Geometry height="88.88691332477154" width="417.69393173471144" x="1311.4684463760677" y="1260.7652964947085"/>
               <y:Fill color="#E8EEF7" color2="#FF99CC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="71.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="8.45908166238587">zoneFactors &lt;object&gt; {
-  fleet [{}]
-  dailyStopLimits[{}]
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="85.5625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="1.66220666238587">zoneFactors &lt;object&gt; {
+  fleet^1a [{vehicleQuantity}]
+  dailyStopLimits^1a [{dailyStopLimit}]
+  fixedCapacity^1b {capacity}
   overrideType? &lt;string:enum&gt;
 }<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
@@ -758,12 +754,63 @@ docId=v1-capacityUser${uid}
         <node id="n0::n15">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.annotation">
-              <y:Geometry height="79.0190395493785" width="417.69393173471144" x="1311.468446376068" y="535.1459215788126"/>
+              <y:Geometry height="79.0190395493785" width="275.46132303905915" x="629.4726192244033" y="1153.5866222413529"/>
               <y:Fill color="#E8EEF7" color2="#FF99CC" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="58.375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="417.69393173471144" x="0.0" xml:space="preserve" y="10.322019774689238">cube {
-  amount &lt;int&gt;
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="58.375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="275.46132303905915" x="0.0" xml:space="preserve" y="10.322019774689238">cube {
+  amount &lt;int; min=1&gt;
   unitOfMeasure &lt;string:enum&gt;
+}<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Byte" name="com.yworks.flowchart.style.orientation" value="0"/>
+                <y:Property class="java.lang.Byte" name="LAYER_STYLE_PROPERTY_KEY" value="1"/>
+              </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node>
+        <node id="n0::n16">
+          <data key="d6">
+            <y:GenericNode configuration="com.yworks.flowchart.annotation">
+              <y:Geometry height="68.66911441172809" width="275.46132303905927" x="916.4552279200554" y="1248.5159240668752"/>
+              <y:Fill color="#E8EEF7" color2="#FF99CC" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="58.375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="275.46132303905927" x="0.0" xml:space="preserve" y="5.14705720586403">vehicleQuantity {
+  deliveryVehicleClassId &lt;uuid; FK&gt;
+  quantity &lt;int&gt;
+}
+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Byte" name="com.yworks.flowchart.style.orientation" value="0"/>
+                <y:Property class="java.lang.Byte" name="LAYER_STYLE_PROPERTY_KEY" value="1"/>
+              </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node>
+        <node id="n0::n17">
+          <data key="d6">
+            <y:GenericNode configuration="com.yworks.flowchart.annotation">
+              <y:Geometry height="68.66911441172809" width="275.46132303905915" x="629.4726192244033" y="1248.5159240668752"/>
+              <y:Fill color="#E8EEF7" color2="#FF99CC" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="58.375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="275.46132303905915" x="0.0" xml:space="preserve" y="5.14705720586403">capacity {
+  stops &lt;int&gt;
+  cubeCapacity &lt;cube&gt;
+}<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Byte" name="com.yworks.flowchart.style.orientation" value="0"/>
+              </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node>
+        <node id="n0::n18">
+          <data key="d6">
+            <y:GenericNode configuration="com.yworks.flowchart.annotation">
+              <y:Geometry height="79.0190395493785" width="275.46132303905915" x="916.4552279200556" y="1153.5866222413524"/>
+              <y:Fill color="#E8EEF7" color2="#FF99CC" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" fontFamily="Courier New" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="58.375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="275.46132303905915" x="0.0" xml:space="preserve" y="10.322019774689352">dailyStopLimit {
+  deliveryVehicleClassId &lt;uuid; FK&gt;
+  stopCount &lt;int&gt;
 }<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Byte" name="com.yworks.flowchart.style.orientation" value="0"/>
@@ -817,7 +864,7 @@ docId=v1-capacityUser${uid}
     <edge id="n0::e4" source="n0::n2" target="n0::n3">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="160.7494262561377" sy="0.0" tx="-175.83877698926756" ty="-111.03273824412747"/>
+          <y:Path sx="160.7494262561377" sy="0.0" tx="-175.8734133789584" ty="-64.23133334023441"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="dash" target="crows_foot_one_mandatory"/>
           <y:BendStyle smoothed="false"/>
@@ -827,7 +874,7 @@ docId=v1-capacityUser${uid}
     <edge id="n0::e5" source="n0::n3" target="n0::n4">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="175.8467088505762" sy="-3.214182600160939" tx="-208.83869715553283" ty="53.97867796587013"/>
+          <y:Path sx="175.87302004495484" sy="108.28008286976319" tx="-208.83869715553283" ty="53.97867796587013"/>
           <y:LineStyle color="#000000" type="dotted" width="2.0"/>
           <y:Arrows source="crows_foot_one" target="crows_foot_many_optional"/>
           <y:BendStyle smoothed="false"/>
@@ -838,7 +885,7 @@ docId=v1-capacityUser${uid}
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="167.18046314432627" ty="37.81380908950021">
-            <y:Point x="934.722435498813" y="-161.0357378050186"/>
+            <y:Point x="943.3603529170019" y="-161.0357378050186"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="dash" target="crows_foot_many_mandatory"/>
@@ -862,8 +909,8 @@ docId=v1-capacityUser${uid}
     <edge id="n0::e8" source="n0::n3" target="n0::n7">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="175.8231492802637" sy="-72.75829165299638" tx="167.21290915833106" ty="-40.08595505324763">
-            <y:Point x="1174.7981994605805" y="966.2056566071947"/>
+          <y:Path sx="175.83368580582408" sy="-25.95688674910332" tx="167.21290915833106" ty="-40.08595505324763">
+            <y:Point x="1174.7981994605805" y="901.5127960411636"/>
             <y:Point x="1174.7981994605805" y="-236.62426698148934"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -889,7 +936,7 @@ docId=v1-capacityUser${uid}
     <edge id="n0::e10" source="n0::n3" target="n0::n0">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-2.6372416276097965" sy="-232.78197944121783" tx="0.0" ty="0.0"/>
+          <y:Path sx="-2.6372416276097965" sy="-153.42964100629777" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="crows_foot_many_mandatory" target="dash"/>
           <y:BendStyle smoothed="false"/>
@@ -909,7 +956,7 @@ docId=v1-capacityUser${uid}
     <edge id="n0::e12" source="n0::n3" target="n0::n5">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="175.85848863573244" sy="-37.78381377369669" tx="175.8247680659423" ty="3.099494446240328">
+          <y:Path sx="175.85335292538946" sy="73.71045169622744" tx="175.8247680659423" ty="3.099494446240328">
             <y:Point x="1211.8773031930864" y="1001.1801344864944"/>
             <y:Point x="1211.8773031930864" y="98.70373990962531"/>
           </y:Path>
@@ -960,7 +1007,6 @@ docId=v1-capacityUser${uid}
       </data>
     </edge>
     <edge id="n0::e17" source="n0::n14" target="n0::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
